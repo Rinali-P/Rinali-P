@@ -1,8 +1,14 @@
-## Hi there 👋  
-#  R I N A L I ✨
+<div align="center">
 
-**Computer Engineering Student**  
-Into code, hardware, and improvement.
+# Hi there 👋  
+## It's Rinali ✨
+
+<p><strong>Computer Engineering Student</strong></p>
+
+<p>Into code, hardware, and improvement ✨</p>
+
+</div>
+
 
 ---
 
@@ -49,7 +55,7 @@ Into code, hardware, and improvement.
 ### 📊 GitHub Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://rinz-p.github.io/Rinz-P/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://rinz-p.github.io/Rinz-P//dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rinz-P/Rinz-P/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rinz-P/Rinz-P/blob/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="github-snake.svg" />
 </picture>
