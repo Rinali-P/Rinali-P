@@ -49,7 +49,7 @@ Into code, hardware, and improvement.
 ### 📊 GitHub Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nuwanj.github.io/Rinz-P/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nuwanj.github.io/Rinz-P//dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://rinz-p.github.io/Rinz-P/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://rinz-p.github.io/Rinz-P//dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="github-snake.svg" />
 </picture>
