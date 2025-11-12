@@ -55,7 +55,7 @@
 ### 📊 GitHub Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rinz-P/Rinz-P/blob/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rinz-P/Rinz-P/blob/main/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rinali-P/Rinali-P/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rinali-P/Rinali-P/blob/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="github-snake.svg" />
 </picture>
